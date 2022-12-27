@@ -15,3 +15,15 @@ We help
 All through **research** and **development** of custom high-performance solutions powered by [Julia](https://julialang.org).
 
 For more information, please check our [website](https://arpeggeo.tech).
+
+## Past workshops
+
+- [JuliaEO2023](https://github.com/Arpeggeo/JuliaEO2023) - Global Workshop on Earth Observation with Julia 2023.
+- [CBMina2021](https://github.com/Arpeggeo/CBMina2021) - Congresso Brasileiro de Minas a Céu Aberto e Minas Subterrâneas 2021.
+
+## Public projects
+
+| Repository | Description |
+|------------|-------------|
+| [awesome-mining-data](https://github.com/Arpeggeo/awesome-mining-data) | Curated list of open datasets in the mining industry. |
+| [julia-distributed-computing](https://github.com/Arpeggeo/julia-distributed-computing) | The ultimate guide to distributed computing in Julia. |
