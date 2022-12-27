@@ -13,3 +13,5 @@ We help
 - **Data scientists** customize geospatial workflows with our advanced open-source software
 
 All through **research** and **development** of custom high-performance solutions powered by [Julia](https://julialang.org).
+
+For more information, please check our [website](https://arpeggeo.tech).
