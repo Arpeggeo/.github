@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Contact_Us-teal.svg)](mailto:contact@arpeggeo.tech)
 
 At Arpeggeo® we believe that geostatistical knowledge is key to advance **machine learning** technology in
-industries that manage **geospatial resources** (e.g., mining, energy, agriculture)
+industries that manage **geospatial resources** (e.g., mining, energy, agriculture).
 
 We help
 
