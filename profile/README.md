@@ -16,10 +16,10 @@ All through **research** and **development** of custom high-performance solution
 
 For more information, please check our [website](https://arpeggeo.tech).
 
-## Past workshops
+## Events
 
-- [JuliaEO2023](https://github.com/Arpeggeo/JuliaEO2023) - Global Workshop on Earth Observation with Julia 2023.
-- [CBMina2021](https://github.com/Arpeggeo/CBMina2021) - Congresso Brasileiro de Minas a Céu Aberto e Minas Subterrâneas 2021.
+- [ ] [JuliaEO2023](https://github.com/Arpeggeo/JuliaEO2023) - Global Workshop on Earth Observation with Julia 2023.
+- [x] [CBMina2021](https://github.com/Arpeggeo/CBMina2021) - Congresso Brasileiro de Minas a Céu Aberto e Minas Subterrâneas 2021.
 
 ## Public projects
 
