@@ -18,6 +18,7 @@ For more information, please check our [website](https://arpeggeo.tech).
 
 ## Events
 
+- [ ] [UFMG2023](https://www.linkedin.com/feed/update/urn:li:activity:7090348469558624256) - Minicurso de Geociência de Dados na Mineração na UFMG 2023.
 - [x] [JuliaEO2023](https://github.com/Arpeggeo/JuliaEO2023) - Global Workshop on Earth Observation with Julia 2023.
 - [x] [CBMina2021](https://github.com/Arpeggeo/CBMina2021) - Congresso Brasileiro de Minas a Céu Aberto e Minas Subterrâneas 2021.
 
