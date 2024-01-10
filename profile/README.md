@@ -18,7 +18,7 @@ For more information, please check our [website](https://arpeggeo.tech).
 
 ## Events
 
-- [x] [JuliaEO2024](https://github.com/Arpeggeo/JuliaEO2024) - Global Workshop on Earth Observation with Julia 2023.
+- [x] [JuliaEO2024](https://github.com/Arpeggeo/JuliaEO2024) - Global Workshop on Earth Observation with Julia 2024.
 - [x] [UFMG2023](https://github.com/Arpeggeo/UFMG2023) - Minicurso de Geociência de Dados na Mineração na UFMG 2023.
 - [x] [JuliaEO2023](https://github.com/Arpeggeo/JuliaEO2023) - Global Workshop on Earth Observation with Julia 2023.
 - [x] [CBMina2021](https://github.com/Arpeggeo/CBMina2021) - Congresso Brasileiro de Minas a Céu Aberto e Minas Subterrâneas 2021.
