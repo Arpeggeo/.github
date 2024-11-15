@@ -18,6 +18,7 @@ For more information, please check our [website](https://arpeggeo.tech).
 
 ## Events
 
+- [ ] [FOSS4G2024](https://github.com/Arpeggeo/FOSS4G2024) - Geospatial Data Science with Julia at FOSS4G 2024.
 - [x] [UFMG2024](https://github.com/Arpeggeo/UFMG2024) - Minicurso de Geociência de Dados na Mineração na UFMG 2024.
 - [x] [UNCTAD2024](https://github.com/Arpeggeo/UNCTAD2024) - Workshop on geospatial technology for SDGs 2024.
 - [x] [JuliaEO2024](https://github.com/Arpeggeo/JuliaEO2024) - Global Workshop on Earth Observation with Julia 2024.
